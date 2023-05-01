@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manthspatel
-- 👀 I’m interested in Data Analytics and insights
+- 👀 I’m interested in Data Analytics and insights related to it
 - 🌱 I’m currently learning Business Analytics at St. Lawrence College
 - 💞️ I’m looking to collaborate on various projects under Data Science and Data Analytics
 
